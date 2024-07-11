@@ -4,3 +4,4 @@ Section : 9SK06
 Roll No : 30
 
 Project Details : NQueen Visualiser using backtracking with html, css, javascript.
+Project Link : https://spontaneous-moonbeam-2c0198.netlify.app
