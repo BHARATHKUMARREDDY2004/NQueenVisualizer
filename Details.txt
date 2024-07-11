@@ -1,0 +1,6 @@
+Name : Vemireddy Bharath Kumar Reddy
+Reg : 12216505
+Section : 9SK06
+Roll No : 30
+
+Project Details : NQueen Visualiser using backtracking with html, css, javascript.
