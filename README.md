@@ -1,5 +1,11 @@
 # NQueen Visualiser
 
+## Author
+- **Name**: Vemireddy Bharath Kumar Reddy
+- **Registration Number**: 12216505
+- **Section**: 9SK06
+- **Roll Number**: 30
+
 ## Project Overview
 The NQueen Visualiser is a web application that demonstrates the solution to the N-Queen problem using the backtracking algorithm. The N-Queen problem is a classic computer science challenge that involves placing N queens on an N x N chessboard in such a way that no two queens can attack each other.
 
